@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\ProjectChoco\ProjectChoco\obj\Debug\ProjectChoco.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\ProjectChoco\ProjectChoco\obj\Debug\ProjectChoco.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\ProjectChoco\ProjectChoco\bin\Debug\ProjectChoco.exe.config
+C:\Users\Owner\Desktop\ProjectChoco\ProjectChoco\bin\Debug\ProjectChoco.exe
+C:\Users\Owner\Desktop\ProjectChoco\ProjectChoco\bin\Debug\ProjectChoco.pdb
+C:\Users\Owner\Desktop\ProjectChoco\ProjectChoco\obj\Debug\ProjectChoco.exe
+C:\Users\Owner\Desktop\ProjectChoco\ProjectChoco\obj\Debug\ProjectChoco.pdb
